@@ -44,6 +44,6 @@ At this point, the user will see GitHub’s OAuth authorization prompt, illustra
 
 When the user approves the request, they will be redirected back to our page with `code` and `state` parameters in the request. The next step is to exchange the authorization code for an access token.
 
-[Previous](https: "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/02%20Setting%20up%20the%20Environment/SettingUpTheEnvironment_en.md "Previous")
 /
-[Next](https: "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/04%20Obtaining%20an%20Access%20Token/ObtainingAnAccessToken_en.md "Next")
