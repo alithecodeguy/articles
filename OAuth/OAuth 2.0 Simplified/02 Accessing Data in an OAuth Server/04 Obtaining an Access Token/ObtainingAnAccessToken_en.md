@@ -46,3 +46,7 @@ The response from GitHub will look like the below.
 Our code has extracted the access token and saved it in the session. The next time you visit the page, it recognizes that there’s already an access token and shows the logged-in view we created earlier.
 
 Note: We have not included any error handling code in this example for simplicity’s sake. In reality, you’d check for errors returned from GitHub and display an appropriate message to the user.
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
