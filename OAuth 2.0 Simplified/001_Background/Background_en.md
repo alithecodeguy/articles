@@ -23,8 +23,7 @@ Naturally, many services quickly realized the problems and limitations of this m
 Around November 2006, Blaine Cook, chief architect at Twitter, was looking for a better authentication method for the Twitter API, something that didn’t require users giving out their Twitter passwords to third-party apps.
 
 > We want something like Flickr Auth / Google AuthSub / Yahoo! BBAuth, but published as an open standard, with common server and client libraries, etc.
-
-> – Blaine Cook, April 5, 2007
+> Blaine Cook, April 5, 2007
 
 In 2007, a group of people working on the development of OpenID got together and created a mailing list to produce a proposal for a standard for API access control that could be used by any system, regardless of whether it used OpenID. This original group included Blaine Cook, Kellen Elliott-McCrea, Larry Halff, Tara Hunt, Ian McKeller, Chris Messina, and a few others.
 
