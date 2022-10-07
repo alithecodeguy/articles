@@ -9,3 +9,7 @@ OAuth was designed as an authorization protocol, so the end result of every OAut
 There are several ways different services provide a way for an app to find out the identity of the user. A simple way is for the API to provide a “user info” endpoint which will return the authenticated user’s name and other profile info when an API call is made with an access token. While this is not something that is part of the OAuth standard, it’s a common approach many services have taken. A more advanced and standardized approach is to use OpenID Connect, an OAuth 2.0 extension. OpenID Connect is covered in more detail in .
 
 This chapter will walk through using a simplified OpenID Connect workflow with the Google API to identify the user who signed in to your application.
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
