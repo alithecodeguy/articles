@@ -23,3 +23,7 @@ The client ID is considered public information, and is used to build authorizati
         <figcaption style="font-size:14px;color:#bbb">GitHub application has been created</figcaption>
     </figure>
 </p>
+
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/AccessingDataInAnOAuthServer_en.md "Next")
+/
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/02%20Setting%20up%20the%20Environment/SettingUpTheEnvironment_en.md "Next")
