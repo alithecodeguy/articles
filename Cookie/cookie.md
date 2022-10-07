@@ -45,16 +45,16 @@ Set-Cookie : <cookie-name>=<cookie-value>
 
 توسط این خطوط ، سرور ارسال کننده header به مرورگر کاربر دستور می‌دهد که یک جفت کوکی را ذخیره کند:
 
-HTTP/2.0 200 OK Content-Type: text/html Set-Cookie: yummy_cookie=choco Set-Cookie: tasty_cookie=strawberry
+HTTP/2.0 200 OKContent-Type: text/htmlSet-Cookie: yummy_cookie=chocoSet-Cookie: tasty_cookie=strawberry
 
 سپس با هر رکوست دیگری از سمت مرورگر کلاینت به سرور ، مرورگر همه هدرهای ذخیره شده قبلی را توسط هدر کوکی (Cookie header) به سرور ارسال می کند.
 
-GET /sample_page.html HTTP/2.0 Host: www.example.org Cookie: yummy_cookie=choco; tasty_cookie=strawberry
+GET /sample_page.html HTTP/2.0Host: www.example.orgCookie: yummy_cookie=choco; tasty_cookie=strawberry
 
 #### تعیین طول عمر یک Cookie :
 
 به ۲ روش می‌توان طول عمر یک Cookie را تعیین کرد.
-کوکی‌های وابسته به جلسات (Session cookies که با نام‌های in_memory cookies ، transient cookie  یا non-persistent cookie نیز شناخته می‌شوند) با اتمام sessionها ، حذف (delete) می‌شوند (یعنی زمانی که مرورگر کاربر بسته شود). اینکه یک session چه زمانی به پایان می‌رسد ، توسط مرورگرها تعیین می‌شود و با توجه به اینکه بعضی از مرورگرها خاصیتی دارند به نام session restoring ، ممکن است session cookieها تا همیشه باقی بمانند. این نوع کوکی را می‌توان با تعیین نکردن مقدار expiration date ایجاد کرد. کوکی‌های دایم ، در زمانی که توسط Expire تعیین می‌شود یا بعد از مدت زمانی که توسط Max-Age تعیین می‌گردد ، حذف می‌شوند. برای مثال :
+کوکی‌های وابسته به جلسات (Session cookies که با نام‌های in_memory cookies ، transient cookie  یا non-persistent cookie نیز شناخته می‌شوند) با اتمام sessionها ، حذف (delete) می‌شوند (یعنی زمانی که مرورگر کاربر بسته شود). اینکه یک session چه زمانی به پایان می‌رسد ، توسط مرورگرها تعیین می‌شود و با توجه به اینکه بعضی از مرورگرها خاصیتی دارند به نام session restoring ، ممکن است session cookieها تا همیشه باقی بمانند. این نوع کوکی را می‌توان با تعیین نکردن مقدار expiration date ایجاد کرد.کوکی‌های دایم ، در زمانی که توسط Expire تعیین می‌شود یا بعد از مدت زمانی که توسط Max-Age تعیین می‌گردد ، حذف می‌شوند. برای مثال :
 Set-Cookie: id=a3fWa; Expires=Thu, 31 Oct 2021 07:28:00 gmt;
 
 وقتی شما عمر یک کوکی را با Expire و تاریخ مشخص می‌کنید ، این تاریخ وابسته به تاریخ سیستم کاربر است ، نه سرور.
@@ -131,8 +131,8 @@ Set-Cookie: mykey=myvalue; SameSite=Strict
 
 از طریق جاوا اسکریپت و بوسیله Document.cookie می‌توانید کوکی جدید ایجاد کنید. همچنین از طریق Javascript می‌توانید به کوکی‌هایی که ویژگی HttpOnly روی آنها فعال نشده باشد ، دسترسی پیدا کنید. مثال :
 
-document.cookie = "yummy_cookie=choco"; document.cookie = "tasty_cookie=strawberry";
-console.log(document.cookie); // logs "yummy_cookie=choco; tasty_cookie=strawberry"
+document.cookie = "yummy_cookie=choco";document.cookie = "tasty_cookie=strawberry";
+console.log(document.cookie);// logs "yummy_cookie=choco; tasty_cookie=strawberry"
 
 ویژگی HttpOnly روی کوکی‌هایی که با Javascript ساخته می‌شوند ، نمی‌تواند فعال باشد.
 لطفا بخش پایین را به دقت مطالعه کنید. کوکی‌هایی که توسط Javascript می‌توان به آنها دسترسی داشت ، در مقابله حملات XSS آسیب پذیر بوده و ممکن است به سرقت بروند.
