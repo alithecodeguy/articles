@@ -7,6 +7,6 @@ In this chapter, we’ll walk through how to access your data at an existing OAu
 - Obtaining an Access Token
 - Making API Requests
 
-[Previous]([https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/00%20Background/Background_en.md](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/01%20Getting%20Ready/GettingReady_en.md) "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/01%20Getting%20Ready/GettingReady_en.md "Next")
 /
 [Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/01%20Create%20an%20Application/CreateAnApplication_en.md "Next")
