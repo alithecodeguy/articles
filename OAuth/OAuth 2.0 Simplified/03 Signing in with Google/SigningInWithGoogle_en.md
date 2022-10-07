@@ -12,4 +12,4 @@ This chapter will walk through using a simplified OpenID Connect workflow with t
 
 [Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/05%20Making%20API%20Requests/MakingAPIRequests_en.md "Previous")
 /
-[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/01%20Authorization%20Code%20Flow/AuthorizationCodeGrant_en.md "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/Server-SideApps_en.md "Next")
