@@ -74,3 +74,7 @@ if(!isset($_GET['action'])) {
 ```
 
 The logged-out view contains a link to our login URL which starts the OAuth process.
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
