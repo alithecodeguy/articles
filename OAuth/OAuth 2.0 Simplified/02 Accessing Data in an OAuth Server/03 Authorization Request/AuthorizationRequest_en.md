@@ -43,3 +43,7 @@ We build up the authorization URL and then send the user there. The URL contains
 At this point, the user will see GitHub’s OAuth authorization prompt, illustrated above.
 
 When the user approves the request, they will be redirected back to our page with `code` and `state` parameters in the request. The next step is to exchange the authorization code for an access token.
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
