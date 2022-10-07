@@ -75,6 +75,6 @@ if(!isset($_GET['action'])) {
 
 The logged-out view contains a link to our login URL which starts the OAuth process.
 
-[Previous](https: "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/01%20Create%20an%20Application/CreateAnApplication_en.md "Previous")
 /
-[Next](https: "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/03%20Authorization%20Request/AuthorizationRequest_en.md "Next")
