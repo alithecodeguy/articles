@@ -54,6 +54,6 @@ The authorization server is currently unable to handle the request due to a temp
 
 In addition, the server may include parameters `error_description` and `error_uri` with additional information about the error.
 
-[Previous](https: "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/02%20Example%20Flow/ExampleFlow_en.md "Previous")
 /
-[Next](https: "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/04%20User%20Experience%20Considerations/UserExperienceConsiderations_en.md "Next")
