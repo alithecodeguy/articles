@@ -34,6 +34,6 @@ That’s it! You can now use the access token to make API requests to any of the
 Download the Sample Code
 You can download the complete sample code used in this example from GitHub at https://github.com/aaronpk/sample-oauth2-client.
 
-[Previous](https: "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/04%20Obtaining%20an%20Access%20Token/ObtainingAnAccessToken_en.md "Previous")
 /
-[Next](https: "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/03%20Signing%20in%20with%20Google/SigningInWithGoogle_en.md "Next")
