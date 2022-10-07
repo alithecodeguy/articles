@@ -48,3 +48,5 @@ In 2012, Eran Hammer, the primary editor of the OAuth 2.0 standard, decided he c
 Today, if someone wants to implement OAuth 2.0 for their web service, they need to synthesize information from a number of different RFCs and drafts. The standard itself does not require a token type, and does not require any specific grant types. This means implementers must decide which they will be supporting. The standard does not even give any guidance on token string size, which ends up being one of the first questions every implementer asks when they get started. Implementers must also read the security guidance and cautions in the document and understand the implications of the decisions they are forced to make.
 
 Interestingly, most of the web services that do implement OAuth 2.0 for their APIs come to many of the same decisions, and so most of the OAuth 2.0 APIs in existence look very similar. This book is a guide to building OAuth 2.0 APIs, with concrete recommendations based on the majority of the live implementations.
+
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/01%20Getting%20Ready/GettingReady_en.md "Next")
