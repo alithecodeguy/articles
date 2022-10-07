@@ -88,3 +88,7 @@ More advanced OAuth servers may also require other forms of client authenticatio
 ## PKCE Verifier
 
 If the service supports PKCE for web server apps, then the client will need to include the followup PKCE parameter when exchanging the authorization code as well. Again, see Single-Page Apps and Mobile Apps for a complete example of using the PKCE extension.
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
