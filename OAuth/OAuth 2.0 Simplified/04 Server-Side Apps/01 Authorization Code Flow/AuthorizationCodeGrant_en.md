@@ -89,6 +89,6 @@ More advanced OAuth servers may also require other forms of client authenticatio
 
 If the service supports PKCE for web server apps, then the client will need to include the followup PKCE parameter when exchanging the authorization code as well. Again, see Single-Page Apps and Mobile Apps for a complete example of using the PKCE extension.
 
-[Previous](https: "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/03%20Signing%20in%20with%20Google/SigningInWithGoogle_en.md "Previous")
 /
-[Next](https: "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/02%20Example%20Flow/ExampleFlow_en.md "Next")
