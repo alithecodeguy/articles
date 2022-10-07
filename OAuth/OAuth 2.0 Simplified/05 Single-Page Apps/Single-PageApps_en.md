@@ -135,3 +135,7 @@ In any case, with both the Implicit Flow as well as the Authorization Code Flow 
 ## Security Considerations
 
 The only way the authorization code grant with no client secret can be secure is by using the “state” parameter and restricting the redirect URL to trusted clients. Since the secret is not used, there is no way to verify the identity of the client other than by using a registered redirect URL. This is why you need to pre-register your redirect URL with the OAuth 2.0 service.
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
