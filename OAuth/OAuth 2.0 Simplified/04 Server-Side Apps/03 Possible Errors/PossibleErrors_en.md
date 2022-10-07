@@ -53,3 +53,7 @@ The authorization server encountered an unexpected condition which prevented it 
 The authorization server is currently unable to handle the request due to a temporary overloading or maintenance of the server.
 
 In addition, the server may include parameters `error_description` and `error_uri` with additional information about the error.
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
