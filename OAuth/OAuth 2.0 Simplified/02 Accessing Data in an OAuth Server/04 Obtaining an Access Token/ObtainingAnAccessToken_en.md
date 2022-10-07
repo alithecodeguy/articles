@@ -47,6 +47,6 @@ Our code has extracted the access token and saved it in the session. The next ti
 
 Note: We have not included any error handling code in this example for simplicity’s sake. In reality, you’d check for errors returned from GitHub and display an appropriate message to the user.
 
-[Previous](https: "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/03%20Authorization%20Request/AuthorizationRequest_en.md "Previous")
 /
-[Next](https: "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/05%20Making%20API%20Requests/MakingAPIRequests_en.md "Next")
