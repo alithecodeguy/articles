@@ -23,3 +23,6 @@ Some applications may have multiple places they want to start the OAuth process 
 The “state” parameter can be used to encode application state, but it must also include some amount of random data if you’re not also including PKCE parameters in the request. The state parameter is a string that is opaque to the OAuth 2.0 service, so whatever state value you pass in during the initial authorization request will be returned after the user authorizes the application. You could for example encode a redirect URL in something like a JWT, and parse this after the user is redirected back to your application so you can take the user back to the appropriate location after they sign in.
 
 Note that unless you are using a signed or encrypted method like JWT to encode the state parameter, you should treat it as untrusted/unvalidated data when it arrives at your redirect URL, since it’s trivial for anyone to modify that parameter on the redirect back to your app.
+
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/00%20Background/Background_en.md "Previous")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/02%20Accessing%20Data%20in%20an%20OAuth%20Server/AccessingDataInAnOAuthServer_en.md "Next")
