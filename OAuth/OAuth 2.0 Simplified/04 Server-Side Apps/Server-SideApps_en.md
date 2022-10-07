@@ -18,3 +18,7 @@ Server-side apps use the `authorization_code` grant type. In this flow, after th
 - Possible Errors
 - User Experience Considerations
 - Security Considerations
+
+[Previous](https: "Previous")
+/
+[Next](https: "Next")
