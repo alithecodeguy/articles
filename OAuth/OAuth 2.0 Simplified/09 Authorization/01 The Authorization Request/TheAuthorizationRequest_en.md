@@ -1,4 +1,4 @@
-<h1 align="center">Authorization </h1>
+<h1 align="center">The Authorization Request</h1>
 
 Clients will direct a user’s browser to the authorization server to begin the OAuth process. Clients may use either the authorization code grant type or the implicit grant. Along with the type of grant specified by the `response_type` parameter, the request will have a number of other parameters to indicate the specifics of the request.
 

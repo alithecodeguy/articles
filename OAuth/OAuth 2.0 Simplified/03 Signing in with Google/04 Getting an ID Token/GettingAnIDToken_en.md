@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">Getting an ID Token</h1>
 
 [Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/03%20Signing%20in%20with%20Google/03%20Authorization%20Request/AuthorizationRequest_en.md "Previous")
 /

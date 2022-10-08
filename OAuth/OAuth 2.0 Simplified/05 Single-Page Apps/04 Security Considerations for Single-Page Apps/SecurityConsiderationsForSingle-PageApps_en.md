@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">Security Considerations for Single-Page Apps</h1>
 
 [Previous](https:// "Previous")
 /
