@@ -56,4 +56,4 @@ In addition, the server may include parameters `error_description` and `error_ur
 
 [Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/02%20Example%20Flow/ExampleFlow_en.md "Previous")
 /
-[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/04%20User%20Experience%20Considerations/UserExperienceConsiderations_en.md "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/04%20User%20Experience%20Considerations%20and%20Security%20Considerations/UserExperienceConsiderations_en.md "Next")
