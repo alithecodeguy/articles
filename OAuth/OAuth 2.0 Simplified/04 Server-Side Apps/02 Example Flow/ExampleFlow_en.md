@@ -78,6 +78,6 @@ Response:
 }
 ```
 
-[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/01%20Authorization%20Code%20Flow/AuthorizationCodeGrant_en.md "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/01%20Authorization%20Code%20Grant/AuthorizationCodeGrant_en.md "Previous")
 /
 [Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/03%20Possible%20Errors/PossibleErrors_en.md "Next")
