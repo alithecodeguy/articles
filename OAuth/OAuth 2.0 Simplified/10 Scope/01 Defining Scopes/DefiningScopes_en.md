@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">Defining Scopes</h1>
 
 [Previous](https:// "Previous")
 /

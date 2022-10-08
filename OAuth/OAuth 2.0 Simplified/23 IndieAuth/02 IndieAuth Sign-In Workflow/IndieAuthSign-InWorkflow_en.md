@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">IndieAuth Sign-In Workflow</h1>
 
 [Previous](https:// "Previous")
 /

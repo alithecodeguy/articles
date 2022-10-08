@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">Short-lived tokens with Long-lived authorizations</h1>
 
 [Previous](https:// "Previous")
 /

@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">Password Grant</h1>
 
 [Previous](https:// "Previous")
 /
