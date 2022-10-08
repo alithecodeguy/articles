@@ -6,4 +6,4 @@ If an app wants to use the authorization code grant but can’t protect its secr
 
 [Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/03%20Possible%20Errors/PossibleErrors_en.md "Previous")
 /
-[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/05%20Security%20Considerations/SecurityConsiderations_en.md "Next")
+[Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/05%20Single-Page%20Apps/Single-PageApps_en.md "Next")

@@ -19,6 +19,6 @@ Server-side apps use the `authorization_code` grant type. In this flow, after th
 - User Experience Considerations
 - Security Considerations
 
-[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/03%20Signing%20in%20with%20Google/SigningInWithGoogle_en.md "Previous")
+[Previous](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/03%20Signing%20in%20with%20Google/05%20Verifying%20the%20User%20Info/VerifyingTheUserInfo_en.md "Previous")
 /
 [Next](https://github.com/alithecodeguy/articles/blob/main/OAuth/OAuth%202.0%20Simplified/04%20Server-Side%20Apps/01%20Authorization%20Code%20Flow/AuthorizationCodeGrant_en.md "Next")
